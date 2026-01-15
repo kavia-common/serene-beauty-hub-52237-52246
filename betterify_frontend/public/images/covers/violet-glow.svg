@@ -1,0 +1,23 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1600" y2="900" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0b0b12"/>
+      <stop offset="1" stop-color="#141321"/>
+    </linearGradient>
+    <radialGradient id="a" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(900 260) rotate(140) scale(820 520)">
+      <stop stop-color="#7c3aed" stop-opacity="0.50"/>
+      <stop offset="1" stop-color="#7c3aed" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="b" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(520 700) rotate(20) scale(880 540)">
+      <stop stop-color="#3b82f6" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#3b82f6" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg2)"/>
+  <rect width="1600" height="900" fill="url(#a)"/>
+  <rect width="1600" height="900" fill="url(#b)"/>
+  <path d="M240 620 C 420 520, 520 520, 700 620 C 880 720, 980 720, 1160 620" stroke="rgba(229,231,235,0.18)" stroke-width="3" fill="none"/>
+  <text x="80" y="820" fill="rgba(229,231,235,0.75)" font-family="system-ui, -apple-system, Segoe UI, Roboto" font-size="42" font-weight="600">
+    Violet Glow Serum Notes
+  </text>
+</svg>
